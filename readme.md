@@ -1,5 +1,5 @@
 # Outline of Project 
-Built a neural network, which reached a ROC AUC score of ~0.84 on the validation set.
+Built a neural network for Cyclica Challenge, which reached a ROC AUC score of ~0.84 on the validation set. The challenge was to predict drug binding sites on AlphaFold2-predicted proteins.
 
 ## Model Details
 The model is made up of 7 layers
